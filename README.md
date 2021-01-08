@@ -1,3 +1,3 @@
 ＃Todo List
 
-Firebase CRUD practive
+Firebase CRUD practice
